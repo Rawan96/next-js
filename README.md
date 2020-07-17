@@ -70,6 +70,7 @@ export default Main
 <br /> <br />
 
 ## Next.js vs Gatsby	:roll_eyes:	
+<br /> 
 
 Next.js and Gatsby are great tools, and you can use it to power your applications. **But When is Next.js better than Gatsby? :thinking:** 
 <br />
