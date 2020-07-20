@@ -15,6 +15,11 @@ Building a modern JavaScript application powered by React is awesome until you r
 
 The solution to this  problems is server rendering, also called static pre-rendering. Next.js is one of the React frameworks that do all of this in a very simple way, but it's not limited to this. It has many other features which helps us through building our application.
 
+<br />
+
+**Next.js is a JavaScript framework created by Zeit. It lets you build server-side rendering and static web applications using React. It’s a great tool to build your next website. It has many great features and advantages, which can make Nextjs your first option for building your next web application.**
+
+
 
 
 <br /> <br />
