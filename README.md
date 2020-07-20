@@ -83,4 +83,8 @@ Next.js and Gatsby are great tools, and you can use it to power your application
 If you have lots of content, then static generated web pages (Gatsby) are not the best solution for you. The reason is that it takes much time to build the site if you have lots of content. 
 So if you have a site with content that you will expect to grow and grow over time, then **Next.JS is the best choice for you**. 
 Also, if you want more freedom with how you access your data, Next.JS is worth a try. <br /> <br />
+
+On the other hand, Gatsby is great if you are just developing a smaller application or one that will be pulling directly from a CMS. Gatsby is easier to set up, which is a great fit if the project is on the smaller side.
+
+
 Next.js provides a backend that can server side render a response to request, allowing you to create a dynamic website, which means you will deploy it on a platform that can run Node.js. And guess what?! Next.js can generate a static site too :star_struck: :heart_eyes:
