@@ -20,13 +20,17 @@ The solution to this  problems is server rendering :thinking:.
 Client-side rendering allows developers to make their websites entirely rendered in the browser with JavaScript. Instead of having a different HTML page per route, a client-side rendered website creates each route dynamically directly in the browser. This approach spread once JS frameworks made it easy to take.
 #### Benefits/Drawbacks to Client Side Rendering
 #### Pros
-1- Ideal for dynamic, interactive sites
-2- Faster load times — in the event that you want your user to be directed to different pages, it will load much quicker than server side frameworks
+1- Ideal for dynamic, interactive sites.
+
+2- Faster load times — in the event that you want your user to be directed to different pages, it will load much quicker than server side frameworks.
+
 3- Wide selection of various JavaScript libraries — more on this later!
 
 #### Cons
 1- Not great for SEO — web crawlers can have a more difficult time, which may result in your website’s appearance in search results
+
 2- Slower initial load time for landing page
+
 3- May require additional libraries
 
 ### Server-Side Rendering
@@ -36,12 +40,16 @@ Server-side rendering allows developers to pre-populate a web page with custom u
 #### Benefits/Drawbacks to Server Side Rendering
 #### Pros
 1- Better SEO — web crawlers have an easier time with server side rendering, which can improve your website’s appearance in search results
+
 2- Great for static sites — not every website needs to have interactive media or animations. If this is the case for you, perhaps having a website composed of HTML and CSS will work fine.
+
 3- Initial page will load faster, compared to client side rendering
 
 #### Cons
-1- Not ideal for dynamic sites
-2- Pages that are not the landing page may load slower
+1- Not ideal for dynamic sites.
+
+2- Pages that are not the landing page may load slower.
+
 3- Many reloads — with server side rendering, you have to make frequent requests to the server to display new and/or different pages.
 
 <br />
